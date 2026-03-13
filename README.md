@@ -212,7 +212,8 @@ The application is fully containerized.
 ### Step 1: Clone the repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/ChVMKiran/Backend-Spreadsheet-Engine-with-Formula-Parsing-and-a-Dependency-Graph.git
+
 cd spreadsheet-engine
 ```
 
